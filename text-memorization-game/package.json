@@ -2,7 +2,7 @@
   "name": "text-memorization-game",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://thyer.github.io/text-display-app",
+  "homepage": "https://thyer.github.io/text-memorization-game",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
