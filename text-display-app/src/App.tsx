@@ -24,7 +24,7 @@ const App: React.FC = () => {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Text Display App</h1>
+        <h1>Memorize!</h1>
         <input
           type="text"
           value={inputText}
