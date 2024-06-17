@@ -11,6 +11,7 @@
   justify-content: center; /* Centers children vertically */
   align-items: center; /* Centers children horizontally */
   padding: 20px;
+  letter-spacing: 2px;
 }
 
 .App-header {
