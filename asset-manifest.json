@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/text-memorization-game/static/css/main.c18cc6ca.css",
+    "main.css": "/text-memorization-game/static/css/main.26ba805e.css",
     "main.js": "/text-memorization-game/static/js/main.77f281eb.js",
     "static/js/453.e98cc1b3.chunk.js": "/text-memorization-game/static/js/453.e98cc1b3.chunk.js",
     "index.html": "/text-memorization-game/index.html",
-    "main.c18cc6ca.css.map": "/text-memorization-game/static/css/main.c18cc6ca.css.map",
+    "main.26ba805e.css.map": "/text-memorization-game/static/css/main.26ba805e.css.map",
     "main.77f281eb.js.map": "/text-memorization-game/static/js/main.77f281eb.js.map",
     "453.e98cc1b3.chunk.js.map": "/text-memorization-game/static/js/453.e98cc1b3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c18cc6ca.css",
+    "static/css/main.26ba805e.css",
     "static/js/main.77f281eb.js"
   ]
 }
