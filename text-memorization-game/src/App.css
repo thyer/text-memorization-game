@@ -39,9 +39,11 @@ button {
 }
 
 .score-box {
-  background-color: #f0f0f0;
+  background-color: #34ad9d;
 }
 
 .display-box {
-  background-color: #e0e0e0;
+  background-color: #e0e312;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
